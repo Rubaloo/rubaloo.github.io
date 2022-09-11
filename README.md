@@ -1,2 +1,0 @@
-# rubaloo.github.io
-Resume
